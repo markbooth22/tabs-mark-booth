@@ -1,0 +1,16 @@
+.Tabs button {
+  padding: 16px;
+}
+
+.Tabs button + button {
+  margin-left: 16px;
+}
+
+.selected {
+  background-color: black;
+  color: white;
+}
+
+.not-selected {
+  background-color: White;
+}
